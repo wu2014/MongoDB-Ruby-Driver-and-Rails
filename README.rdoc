@@ -1,4 +1,6 @@
 == README
 1.Integrate MongoDB into a Rails application using the MongoDB Ruby Driver
+
 2.Manually implement CRUD methods required of a Rails model class to work with Rails scaffold
+
 3.Add manual model support for `will_paginate` pagination of data
